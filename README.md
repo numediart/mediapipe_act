@@ -6,6 +6,12 @@ This project demonstrates the use of the Mediapipe library to detect facial land
 
 ## Installation
 
+You can install the project by cloning the repository:
+
+```bash
+git clone https://github.com/numediart/mediapipe_act.git
+```
+
 To install the project dependencies, ensure you have Python 3.7 or higher installed. Then, run the following command:
 
 ```bash
